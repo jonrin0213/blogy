@@ -1,14 +1,5 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/blogy)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/blogy?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/blogy?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/NNQuhOeM0mI?style=social)](https://youtu.be/NNQuhOeM0mI)
-
-  <br />
-  <br />
-
   <h2 align="center">Blogy - Blog Website</h2>
 
   Blogy is a fully responsive blog website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
@@ -36,13 +27,13 @@ To run **Blogy** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/blogy.git
+sudo git clone https://github.com/jonrin0213/blogy.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/blogy.git
+git clone https://github.com/jonrin0213/blogy.git
 ```
 
 ### Contact
